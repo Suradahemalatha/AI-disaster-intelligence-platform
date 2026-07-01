@@ -1,0 +1,11 @@
+{
+  "name": "AI Disaster Intelligence Platform",
+  "description": "An AI-powered platform for emergency preparedness, real-time disaster reporting, impact analysis, and coordinate rescue support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
